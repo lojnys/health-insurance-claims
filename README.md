@@ -26,7 +26,7 @@ This project develops an actuarial pricing framework for health insurance using 
 health_claims_analysis/
 │
 ├── data/
-│   └── raw/
+│   └── raw_data/
 │
 ├── notebooks/
 │
