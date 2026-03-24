@@ -52,3 +52,7 @@ health_claims_analysis/
 
 ## Results & Interpretation
 
+## References
+* PennState Note STAT 462 Applied Regression Analysis - 10.8 *Detecting Multicollinearity Using Variance Inflation Factors* -  https://online.stat.psu.edu/stat462/node/209/
+* PennState Note STAT 462 Applied Regression Analysis - 12.3 *Poisson Regression* - https://online.stat.psu.edu/stat462/node/180/
+* CAS Monogrph Series Number 5 Second Edition (2025 revision) - *Generalized Linear Models For Insurance Rating*
